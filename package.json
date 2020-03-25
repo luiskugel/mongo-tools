@@ -1,0 +1,13 @@
+{
+  "name": "mongo-tools",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.5.5",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
